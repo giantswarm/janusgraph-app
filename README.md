@@ -1,11 +1,11 @@
-[![CircleCI](https://circleci.com/gh/giantswarm/{APP-NAME}.svg?style=shield)](https://circleci.com/gh/giantswarm/{APP-NAME})
+[![CircleCI](https://circleci.com/gh/giantswarm/janusgraph-app.svg?style=shield)](https://circleci.com/gh/giantswarm/janusgraph-app)
 
 [Read me after cloning this template (GS staff only)](https://intranet.giantswarm.io/docs/dev-and-releng/app-developer-processes/adding_app_to_appcatalog/)
 
-# {APP-NAME} chart
+# janusgraph-app chart
 
-Giant Swarm offers a {APP-NAME} App which can be installed in workload clusters.
-Here we define the {APP-NAME} chart with its templates and default configuration.
+Giant Swarm offers a janusgraph-app App which can be installed in workload clusters.
+Here we define the janusgraph-app chart with its templates and default configuration.
 
 **What is this app?**
 
